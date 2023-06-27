@@ -10,7 +10,7 @@
         android:layout_height="wrap_content"
         android:layout_margin="10dp"
         android:padding="5dp"
-        android:text="About Us | ہمارے بارے میں"
+        android:text="About Us"
         android:textColor="@color/blue_text"
         android:textSize="15sp"
         android:textStyle="bold" />
@@ -31,9 +31,8 @@
             android:textStyle="bold"
             android:text="70058991@student.uol.edu.pk +923456900931
 www.loremipsum.com
-Near University of Lahore , Chenab Campus ||  70058991@student.uol.edu.pk +923456900931
-www.loremipsum.com
-نزد یونیورسٹی آف لاہور، چناب کیمپس"
+Near University of Mataram , Gedung Teknik Informatika ||  70058991@student.uol.edu.pk +623456900931
+www.loremipsum.com"
             android:fontFamily="@font/roboto_regular"
             android:padding="15dp"/>
     </ScrollView>

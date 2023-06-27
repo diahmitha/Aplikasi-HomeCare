@@ -123,7 +123,7 @@
                             android:id="@+id/txtprice"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="$10"
+                            android:text="Rp 1.500.000"
                             android:textSize="20sp"
                             android:textColor="@color/sub_txt"
                             android:fontFamily="@font/roboto_medium"/>
@@ -562,7 +562,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:fontFamily="@font/roboto_regular"
-                        android:text="Save $13 on this booking"
+                        android:text="Save Rp.500.000 on this booking"
                         android:textColor="@color/blue_text"
                         android:textSize="10sp"
                         android:visibility="gone" />

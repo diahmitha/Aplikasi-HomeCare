@@ -32,7 +32,7 @@
             android:layout_marginRight="10dp"
             android:gravity="center|left"
             android:padding="5dp"
-            android:text="NIC Details        |     شناختی کارڈ کی تفصیلات"
+            android:text="NIC Details       "
             android:textColor="@color/blue_text"
             android:textSize="18sp"
             android:textStyle="bold" />
@@ -76,7 +76,7 @@
                         android:layout_marginLeft="2dp"
                         android:gravity="center|left"
                         android:padding="5dp"
-                        android:text="NIC Number                                  شناختی کارڈ نمبر"
+                        android:text="NIK Number                                "
                         android:textColor="@color/txt_color"
                         android:textSize="18sp" />
 
@@ -142,7 +142,7 @@
                         android:layout_marginLeft="2dp"
                         android:gravity="center|left"
                         android:padding="5dp"
-                        android:text="Full Name                                                    پورا نام"
+                        android:text="Full Name                                               "
                         android:textColor="@color/txt_color"
                         android:textSize="18sp" />
 
@@ -206,7 +206,7 @@
                         android:layout_marginLeft="2dp"
                         android:gravity="center|left"
                         android:padding="5dp"
-                        android:text="Date of Birth                                        تاریخ پیدائش"
+                        android:text="Date of Birth                                "
                         android:textColor="@color/txt_color"
                         android:textSize="18sp" />
 
@@ -267,7 +267,7 @@
                         android:layout_marginLeft="2dp"
                         android:gravity="center|left"
                         android:padding="5dp"
-                        android:text=" Enter Gender                                    جنس درج کریں"
+                        android:text=" Enter Gender                        "
                         android:textColor="@color/txt_color"
                         android:textSize="18sp" />
 
@@ -630,7 +630,7 @@
             android:layout_marginRight="5dp"
             android:gravity="center"
             android:padding="5dp"
-            android:text="Save / محفوظ کریں"
+            android:text="Save "
             android:textAllCaps="true"
             android:textColor="@color/blue_text"
             android:textSize="14sp"

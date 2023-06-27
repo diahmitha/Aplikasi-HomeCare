@@ -32,7 +32,7 @@
             android:layout_marginRight="10dp"
             android:gravity="center|left"
             android:padding="5dp"
-            android:text="Bank Details | بینک کی تفصیلات"
+            android:text="Bank Details "
             android:textColor="@color/blue"
             android:textSize="18sp"
             android:textStyle="bold" />
@@ -68,7 +68,7 @@
                         android:layout_marginLeft="2dp"
                         android:gravity="center|left"
                         android:padding="5dp"
-                        android:text="Full Name                                                    پورا نام"
+                        android:text="Full Name                                                 "
                         android:textColor="@color/txt_color"
                         android:textSize="18sp" />
 
@@ -103,7 +103,7 @@
                         android:backgroundTint="@color/white"
                         android:digits="QWERTYUIOPASDFGHJKLZXCV BNMqwertyuiopasdfghjklzxcvbnm"
                         android:gravity="center|left"
-                        android:hint="Enter Your Name                                      اپنا نام درج کریں"
+                        android:hint="Enter Your Name                                   "
                         android:inputType="text"
                         android:maxLength="40"
                         android:padding="8dp"
@@ -133,7 +133,7 @@
                         android:layout_marginLeft="2dp"
                         android:gravity="center|left"
                         android:padding="5dp"
-                        android:text="Bank Account Number                 بینک اکاؤنٹ نمبر"
+                        android:text="Bank Account Number              "
                         android:textColor="@color/txt_color"
                         android:textSize="18sp" />
 
@@ -200,7 +200,7 @@
                         android:layout_marginBottom="7dp"
                         android:gravity="center|left"
                         android:padding="5dp"
-                        android:text="Re-enter BAN                                             دوبارہ درج کریں"
+                        android:text="Re-enter BAN                                       "
                         android:textColor="@color/txt_color"
                         android:textSize="16sp" />
 
@@ -252,7 +252,7 @@
                         android:layout_marginLeft="2dp"
                         android:gravity="center|left"
                         android:padding="5dp"
-                        android:text="Postal-Zip-Code                    ڈاک کامخصوص نمبر"
+                        android:text="Postal-Zip-Code                "
                         android:textColor="@color/txt_color"
                         android:textSize="18sp" />
 
@@ -346,7 +346,7 @@
             android:layout_marginLeft="10dp"
             android:layout_marginRight="5dp"
             android:textAllCaps="true"
-            android:text="Save / محفوظ"
+            android:text="Save "
             android:gravity="center"
             android:padding="5dp"
             android:textSize="14dp"

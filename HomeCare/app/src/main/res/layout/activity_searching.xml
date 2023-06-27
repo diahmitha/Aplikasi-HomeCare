@@ -143,7 +143,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="POPUlAR CITIES"
+                android:text="Popular Places"
                 android:layout_marginTop="15dp"
                 android:layout_marginLeft="15dp"
                 android:textColor="@color/sub_txt"
@@ -153,7 +153,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="New Dallas"
+                android:text="Mataram"
                 android:textColor="@color/walkthrough_txt"
                 android:textSize="15sp"
                 android:layout_marginTop="15dp"
@@ -172,7 +172,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="South Carli"
+                android:text="Labuapi"
                 android:textColor="@color/walkthrough_txt"
                 android:textSize="15sp"
                 android:layout_marginTop="15dp"
@@ -192,7 +192,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="West Jacky"
+                android:text="Sekarbela"
                 android:textColor="@color/walkthrough_txt"
                 android:textSize="15sp"
                 android:layout_marginTop="15dp"
@@ -211,7 +211,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Franzborough"
+                android:text="Ampenan"
                 android:textColor="@color/walkthrough_txt"
                 android:textSize="15sp"
                 android:layout_marginTop="15dp"

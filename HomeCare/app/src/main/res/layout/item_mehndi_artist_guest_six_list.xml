@@ -83,7 +83,7 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="$10"
+                        android:text="Rp. 1.500.000"
                         android:textSize="20sp"
                         android:textColor="@color/sub_txt"
                         android:fontFamily="@font/roboto_medium"/>
@@ -138,7 +138,7 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="$10"
+                            android:text="Rp.1.500.000"
                             android:textSize="20sp"
                             android:textColor="@color/sub_txt"
                             android:fontFamily="@font/roboto_medium"/>
@@ -184,7 +184,7 @@
                             <TextView
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
-                                android:text="$5"
+                                android:text="Rp. 500.000"
                                 android:textSize="20sp"
                                 android:textColor="@color/sub_txt"
                                 android:fontFamily="@font/roboto_medium"/>

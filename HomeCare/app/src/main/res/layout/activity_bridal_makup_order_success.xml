@@ -226,7 +226,7 @@ in-person only to start job."
                                         <TextView
                                             android:layout_width="wrap_content"
                                             android:layout_height="wrap_content"
-                                            android:text="$90"
+                                            android:text="Rp. 1.500.000"
                                             android:textSize="20sp"
                                             android:textColor="@color/sub_txt"
                                             android:fontFamily="@font/roboto_medium"/>
@@ -319,7 +319,7 @@ in-person only to start job."
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
                                 android:fontFamily="@font/roboto_regular"
-                                android:text="$90"
+                                android:text="Rp. 1.500.000"
                                 android:textColor="@color/walkthrough_txt"
                                 android:textSize="14sp" />
                         </LinearLayout>
@@ -345,7 +345,7 @@ in-person only to start job."
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
                                 android:fontFamily="@font/roboto_regular"
-                                android:text="$0"
+                                android:text="Rp. 1.500.000"
                                 android:textColor="@color/walkthrough_txt"
                                 android:textSize="14sp" />
                         </LinearLayout>
@@ -376,7 +376,7 @@ in-person only to start job."
                             <TextView
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
-                                android:text="$90"
+                                android:text="Rp. 1.500.000"
                                 android:layout_marginLeft="5dp"
                                 android:textColor="@color/txt_color"
                                 android:fontFamily="@font/roboto_medium"

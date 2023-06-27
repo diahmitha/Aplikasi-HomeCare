@@ -6,53 +6,53 @@
         <item
             android:id="@+id/nav_homed"
             android:icon="@drawable/ic_home"
-            android:title="ڈیش بورڈ" />
+            android:title="Dashboard" />
 
         <item
             android:id="@+id/nav_earnings"
             android:icon="@drawable/ic_monetization_new"
-            android:title="کریڈٹس" />
+            android:title="Credits" />
 
         <item
             android:id="@+id/nav_booking"
             android:icon="@drawable/ic_clipboard_new"
-            android:title="بکنگ" />
+            android:title="Booking" />
 
         <item
             android:id="@+id/nav_profile"
             android:icon="@drawable/ic_profile_small"
-            android:title="پروفائل" />
+            android:title="Profile" />
 
         <item
             android:visible="false"
             android:id="@+id/nav_credit"
             android:icon="@drawable/ic_wallet"
-            android:title="کریڈٹ بیلنس" />
+            android:title="Credit Balance" />
 
         <item
             android:visible="false"
             android:id="@+id/nav_jobhistory"
             android:icon="@drawable/ic_clipboard"
-            android:title="ملازمتوں کی تفصیل" />
+            android:title="Job Description" />
 
         <item
             android:id="@+id/nav_gst"
             android:icon="@drawable/ic_creditcard_new"
-            android:title="ذاتی معلومات" />
+            android:title="Personal Information" />
 
         <item
             android:id="@+id/nav_terms"
             android:icon="@drawable/ic_article"
-            android:title="شرائط و ضوابط" />
+            android:title="Terms and Conditions" />
         <item
             android:id="@+id/nav_contct"
             android:icon="@drawable/ic_telephone"
-            android:title="ہمارے بارے" />
+            android:title="About us" />
 
         <item
             android:id="@+id/nav_log_out"
             android:icon="@drawable/ic_exit"
-            android:title="لاگ آوٹ" />
+            android:title="Logout" />
 
     </group>
 </menu>
